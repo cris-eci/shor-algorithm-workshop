@@ -326,23 +326,6 @@ Verificación: 13 × 19 = 247 ✓
    *An Introduction to Quantum Computing*  
    Oxford University Press
 
-### Recursos en Línea
-
-- [Qiskit Documentation](https://qiskit.org/documentation/) - IBM Quantum
-- [IBM Quantum Experience](https://quantum-computing.ibm.com/) - Plataforma de computación cuántica
-- [Shor's Algorithm on Wikipedia](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
-
-### Artículos Académicos
-
-- **Shor, P. W.** (1997)  
-   *Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer*  
-   SIAM Journal on Computing, 26(5), 1484-1509
-
----
-
-
-
-
 
 ## 👨‍💻 Autor
 
@@ -351,16 +334,6 @@ Ciencias Naturales y tecnología
 
 📧 Email: cristian.pedraza@escuelaing.edu.co  
 🏫 Escuela Colombiana de Ingeniería Julio Garavito
-
----
-
-## 🌟 Agradecimientos
-
-Agradecimientos especiales a:
-
-- Peter Shor por su revolucionario algoritmo
-- La comunidad de computación cuántica
-- Los desarrolladores de Qiskit y otras herramientas cuánticas
 
 ---
 
