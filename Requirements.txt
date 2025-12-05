@@ -1,0 +1,17 @@
+# Dependencias para el Taller del Algoritmo de Shor
+# Python 3.8+ requerido
+
+# Visualización de datos y gráficos
+matplotlib>=3.5.0
+
+# Computación numérica y arrays
+numpy>=1.21.0
+
+# Jupyter para notebooks interactivos
+jupyterlab>=3.0.0
+
+# Alternativa a JupyterLab (opcional)
+notebook>=6.4.0
+
+# Para mejor visualización en notebooks
+ipywidgets>=7.6.0
