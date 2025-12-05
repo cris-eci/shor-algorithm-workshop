@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -20,8 +19,6 @@
 - [Ejemplos](#-ejemplos)
 - [Resultados](#-resultados)
 - [Referencias](#-referencias)
-- [Contribuciones](#-contribuciones)
-- [Licencia](#-licencia)
 
 ---
 
@@ -120,14 +117,7 @@ Donde GCD es el Máximo Común Divisor.
 
 ## 📥 Instalación
 
-### Paso 1: Clonar el Repositorio
-
-```bash
-git clone https://github.com/tu-usuario/ShorAlgorithm.git
-cd ShorAlgorithm
-```
-
-### Paso 2: Crear un Entorno Virtual (Recomendado)
+### Paso 1: Crear un Entorno Virtual (Recomendado)
 
 **Windows (PowerShell):**
 ```powershell
@@ -141,13 +131,13 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Paso 3: Instalar Dependencias
+### Paso 2: Instalar Dependencias
 
 ```bash
 pip install -r Requirements.txt
 ```
 
-### Paso 4: Iniciar Jupyter
+### Paso 3: Iniciar Jupyter
 
 ```bash
 jupyter lab
@@ -159,7 +149,7 @@ O alternativamente:
 jupyter notebook
 ```
 
-### Paso 5: Abrir el Notebook
+### Paso 4: Abrir el Notebook
 
 En el navegador que se abre, navega a `Shors_Algorithm_Workshop.ipynb` y ábrelo.
 
@@ -350,63 +340,17 @@ Verificación: 13 × 19 = 247 ✓
 
 ---
 
-## 🤝 Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar este taller:
 
-1. **Fork** el repositorio
-2. Crea una **rama** para tu característica (`git checkout -b feature/NuevaCaracteristica`)
-3. **Commit** tus cambios (`git commit -m 'Agregar nueva característica'`)
-4. **Push** a la rama (`git push origin feature/NuevaCaracteristica`)
-5. Abre un **Pull Request**
 
-### Áreas de Contribución
-
-- 🐛 Corrección de errores
-- 📝 Mejoras en la documentación
-- 🎨 Mejoras en visualizaciones
-- 🧪 Nuevos ejemplos y ejercicios
-- 🌍 Traducciones a otros idiomas
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-```
-MIT License
-
-Copyright (c) 2025 Taller del Algoritmo de Shor
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
 
 ## 👨‍💻 Autor
 
-**Taller de Algoritmo de Shor**  
-Computación Cuántica y Criptografía
+**Cristian Santiago Pedraza Rodríguez**  
+Ciencias Naturales y tecnología
 
-📧 Email: contacto@ejemplo.com  
-🌐 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+📧 Email: cristian.pedraza@escuelaing.edu.co  
+🏫 Escuela Colombiana de Ingeniería Julio Garavito
 
 ---
 
@@ -417,23 +361,10 @@ Agradecimientos especiales a:
 - Peter Shor por su revolucionario algoritmo
 - La comunidad de computación cuántica
 - Los desarrolladores de Qiskit y otras herramientas cuánticas
-- Todos los contribuidores y estudiantes que usan este material
-
----
-
-## 📞 Soporte
-
-Si tienes preguntas o problemas:
-
-1. **Issues**: Abre un issue en GitHub
-2. **Email**: Envía un correo a contacto@ejemplo.com
-3. **Discusiones**: Participa en las discusiones del repositorio
 
 ---
 
 <div align="center">
-
-### ⭐ Si este proyecto te fue útil, ¡no olvides darle una estrella! ⭐
 
 **Hecho con ❤️ y computación cuántica**
 
